@@ -1,4 +1,5 @@
 # commit/push automático:
+<p>ferramenta em shell que faz commits automáticos para repositorios e deploys </p>
 <hr>
 <p>
 a ferramenta deve ser adicionada no projeto para executa-la use o comando:
