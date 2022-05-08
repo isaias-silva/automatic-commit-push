@@ -3,7 +3,8 @@
 <p>
 a ferramenta deve ser adicionada no projeto para executa-la use o comando:
 <br>
-<spam color="green">bash commit.sh plataforma branch</spam>
+<font color=\"green\"><spam>bash commit.sh plataforma branch</spam></font>
+
 <br>
 
 </p>
