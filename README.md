@@ -1,6 +1,12 @@
 # commit/push automático:
-a ferramenta deve ser adicionada no projeto para executa-la use o comando
-**bash commit.sh plataforma branch**
-**plataforma ->** github,heroku,gitlab etc...
-**branch ->** branch criada no seu repositório (main, master...)
-==================
+<hr>
+<p>
+a ferramenta deve ser adicionada no projeto para executa-la use o comando:
+<br>
+<b>bash commit.sh plataforma branch</b>
+<br>
+plataforma -> github,heroku,gitlab etc...
+<br>
+branch -> branch criada no seu repositório (main, master...)
+</p>
+
